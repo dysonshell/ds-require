@@ -1,6 +1,6 @@
 {
   "name": "ds-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "用于 hack node.js 的 require，让 require(`${DSC}/some-module/a/b/c.js`) 能够解析到 `${config.dsAppRoot}/${config.dsComponentPrefix}/some-module/a/b/c.js`",
   "files": [
     "index.js"
